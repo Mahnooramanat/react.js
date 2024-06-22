@@ -1,0 +1,36 @@
+body{
+    background-color:palevioletred;
+}
+.head{
+    background-color: rgb(20, 214, 221);
+
+
+}
+.nav{
+    display: flex;
+    justify-content: end;
+}
+.logo{
+    font-size: 30px;
+   font-weight: bold;
+    color: rgb(8, 7, 7);
+}
+.link{
+    font-family: bold;
+    font-size: 20px;
+    margin-left: 19px;
+    color: black;
+}
+p{
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20px;
+    margin-left: 30px;
+    color:black;
+}
+.btn{
+    margin-left: 45px;
+    color: black;
+}

@@ -1,0 +1,28 @@
+.box{
+    /* display:inline-block; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* gap: 10px; */
+/* background-color:violet; */
+}
+.boxes{
+    border: 10px solid black;
+}
+.img{
+    object-fit: cover;
+    aspect-ratio: 3/2;
+}
+.context{
+    font-style:italic ;
+}
+.down{
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
+.tag{
+    font-size: 20px;
+    font-weight:bold ;
+    text-decoration: underline;
+}
